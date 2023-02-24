@@ -1,11 +1,11 @@
 en:
   application:
-    name: Untitled Application
+    name: # path to your application root.
     owner: Unidentified Developer
     description: "You can update this description in `config/locales/en/application.en.yml`."
-    keywords: untitled application seo keywords
+    keywords: # path to your application root. seo keywords
     support_email: change.me@localhost
-    key: untitled_application
+    key: path_to_your_application_root
   webhooks/outgoing/endpoints:
     fields:
       api_version:
